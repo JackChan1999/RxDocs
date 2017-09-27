@@ -1,6 +1,6 @@
 { 
-"description": "ReactiveX 文档中文翻译",
-"title" : "Rx是一个编程模型，目标是提供一致的编程接口，帮助开发者更方便的处理异步数据流，现在已经支持几乎全部的流行编程语言了",
+"description": "Rx是一个编程模型，目标是提供一致的编程接口，帮助开发者更方便的处理异步数据流，现在已经支持几乎全部的流行编程语言了",
+"title" : "ReactiveX 文档中文翻译",
 "language": "zh-hans",
 "author" : "AllenIverson",
 "gitbook": "3.2.3",
