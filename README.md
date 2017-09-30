@@ -12,6 +12,14 @@ https://github.com/JackChan1999/RxDocs
 
 https://www.gitbook.com/book/alleniverson/rxdocs/welcome
 
+## 给 Android 开发者的 RxJava 详解
+
+https://www.gitbook.com/book/alleniverson/rxjava-docs-for-android-developer/details
+
+## RxJava Essentials 中文翻译版
+
+https://www.gitbook.com/book/alleniverson/rxjava-essentials/details
+
 ## 说明
 
 * 大部分是翻译自 [ReactiveX.io](http://reactivex.io/) 和 [RxJava Wiki](https://github.com/ReactiveX/rxjava/wiki)，修正了原文的一些错误，补充了详细的说明和示例
